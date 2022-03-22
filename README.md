@@ -1,7 +1,8 @@
 # workshopjagoflutter for UdaCoding
 ![SplashScreen polos](https://user-images.githubusercontent.com/93851159/159573398-e76417b1-e24f-4593-86e6-de104fef0b9c.png)
 ![Login w Email](https://user-images.githubusercontent.com/93851159/159573494-772c27c7-9701-4c4c-97a0-250d961d2c99.png)
-![Register](https://user-images.githubusercontent.com/93851159/159573533-4cfb0627-9970-46bb-88e0-8ed3c7ec921a.png)
+![Register](https://user-images.githubusercontent.com/93851159/159573954-c412ec6c-a01c-4d33-8b63-2cff4dea84ca.png)
+
 
 A new Flutter project.
 
